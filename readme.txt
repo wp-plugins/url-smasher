@@ -4,7 +4,7 @@ Donate link: http://cellarweb.com/wordpress-plugins/
 Tags: url shortener automatic goo.gl
 Requires at least: 4.0.1
 Tested up to: 4.3
-Stable tag: 1.1
+Stable tag: 1.01b
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +77,11 @@ We do lots of WordPress sites: implementation, customization, and more. You can 
 
 == Changelog ==
 
+= 1.01b =
+* released 24 Aug 2015
+* code efficiencies
+* corrected "Invalid Header" activation error 
+
 = 1.01a =
 * released 22 Aug 2015
 * fixed formatting errors in the readme.txt file.
@@ -93,6 +98,11 @@ We do lots of WordPress sites: implementation, customization, and more. You can 
 
 
 == Upgrade Notice ==
+
+= 1.01b =
+* released 24 Aug 2015
+* code efficiencies
+* corrected "Invalid Header" activation error 
 
 = 1.01a =
 * released 22 Aug 2015

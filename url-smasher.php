@@ -5,7 +5,7 @@
 	Description: Automatically shortens URLS in posts/pages/comments, using the goo.gl shortener API
 	Text Domain: 
 	Author: Rick Hellewell / CellarWeb.com
-	Version: 1.01a 
+	Version: 1.01b 
 	Author URI: http://CellarWeb.com
 	License: GPLv2 or later
 */
@@ -182,7 +182,7 @@ class URL_Smasher_Settings_Page
 	public function url_smasher_the_version_callback()
 	{
 	   printf(
-			'<input type="text" type="hidden" id="the_version" name="url_smasher_options[the_version]" value="1.01a (22-Aug-2015)" readonly="readonly" width="5" maxlength="5" />',
+			'<input type="text" type="hidden" id="the_version" name="url_smasher_options[the_version]" value="1.01b (24-Aug-2015)" readonly="readonly" width="5" maxlength="5" />',
 			isset( $this->options['the_version'] ) ? esc_attr( $this->options['the_version']) : esc_attr( $this->options['the_version'])
 		);
 	}
